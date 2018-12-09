@@ -67,11 +67,20 @@ function songLookup(userInput) {
             previewText = result.tracks.items[0].preview_url;
         }
 
-        console.log(`I found this information about this song: 
-            \nSong name: ${result.tracks.items[0].name}
-            \nArtist name: ${result.tracks.items[0].artists[0].name}
-            \nAlbum name: ${result.tracks.items[0].album.name}
-            \nPreview track: ${previewText}`);
+        var newText = `\nSong name: ${result.tracks.items[0].name}
+        \nArtist name: ${result.tracks.items[0].artists[0].name}
+        \nAlbum name: ${result.tracks.items[0].album.name}
+        \nPreview track: ${previewText}`;
+
+        console.log(`I found this information about this song: ${newText}`);
+
+        addText("Song info: \n" + newText + "\n");
+
+        // console.log(`I found this information about this song:
+        //     \nSong name: ${result.tracks.items[0].name}
+        //     \nArtist name: ${result.tracks.items[0].artists[0].name}
+        //     \nAlbum name: ${result.tracks.items[0].album.name}
+        //     \nPreview track: ${previewText}`);
     });
 }
 
@@ -133,14 +142,17 @@ function movieLookup(userInput) {
                 }
             }
 
-            console.log(`I found this information about this movie: 
-            \nMovie name: ${result.data.Title}
+            var newText = `\nMovie name: ${result.data.Title}
             \nPlot summary: ${result.data.Plot}
             \nActors: ${result.data.Actors}
-            \nRelease year and country: ${
-                result.data.Year
-            }, in ${result.data.Country}
-            \nRatings: ${ratingText}`);
+            \nRelease year and country: ${result.data.Year}, in ${
+                result.data.Country
+            }
+            \nRatings: ${ratingText}`;
+
+            console.log(`I found this information about this movie: 
+            ${newText}`);
+            addText("Movie info: \n" + newText + "\n");
         });
 }
 
@@ -164,15 +176,22 @@ function bandLookup(userInput) {
                 bands
         )
         .then(function(result) {
+            var newText = "";
             for (var i = 0; i < result.data.length; i++) {
-                console.log(`Concert #${i}:
+                newText =
+                    newText +
+                    `Concert #${i + 1}:
                 \nVenue name: ${result.data[i].venue.name}
                 \nVenue location: ${result.data[i].venue.city} in ${
-                    result.data[i].venue.country
-                }
+                        result.data[i].venue.country
+                    }
                 \nConcert date: ${result.data[i].datetime}
-                \n`);
+                \n`;
             }
+            console.log(
+                `I found this information about this artist: \n ${newText}`
+            );
+            addText(userInput + " concerts: \n" + newText + "\n");
         });
 }
 
@@ -198,6 +217,20 @@ function doWhatItSays() {
             bandLookup(dataArr[1]);
         } else {
             console.log("Sorry, I didn't understand that");
+        }
+    });
+}
+
+/**
+ * Writes information provided into a log file
+ * @param {string} text
+ */
+function addText(text) {
+    fs.appendFile("log.txt", text, function(err) {
+        if (err) {
+            console.log(err);
+        } else {
+            console.log("I added this information to your log file!");
         }
     });
 }
@@ -245,8 +278,7 @@ function lirithis(userInput, userChoice) {
 
 /** To do:
  *
- * 5. clean up console logs
- * 6. output to log file
+ *
  * 7. momentjs
  *
  *
@@ -255,7 +287,9 @@ function lirithis(userInput, userChoice) {
  * 2. implement "do what it says"
  * 3. turn the current test searches into user input searches
  * 4. reformat the organization to make it make sense
+ * 5. clean up console logs
+ * 6. output to log file
+ *
  */
 
-// songLookup("django jane");
 lirithis(userInput, userChoice);
