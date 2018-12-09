@@ -177,7 +177,11 @@ function bandLookup(userInput) {
         )
         .then(function(result) {
             var newText = "";
+            var dateText;
+
             for (var i = 0; i < result.data.length; i++) {
+                dateText = moment(result.data[i].datetime).format("MM/DD/YYYY");
+
                 newText =
                     newText +
                     `Concert #${i + 1}:
@@ -185,13 +189,13 @@ function bandLookup(userInput) {
                 \nVenue location: ${result.data[i].venue.city} in ${
                         result.data[i].venue.country
                     }
-                \nConcert date: ${result.data[i].datetime}
+                \nConcert date: ${dateText}
                 \n`;
             }
             console.log(
                 `I found this information about this artist: \n ${newText}`
             );
-            addText(userInput + " concerts: \n" + newText + "\n");
+            addText("Concert info: \n" + newText + "\n");
         });
 }
 
