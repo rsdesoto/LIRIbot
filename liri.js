@@ -75,12 +75,6 @@ function songLookup(userInput) {
         console.log(`I found this information about this song: ${newText}`);
 
         addText("Song info: \n" + newText + "\n");
-
-        // console.log(`I found this information about this song:
-        //     \nSong name: ${result.tracks.items[0].name}
-        //     \nArtist name: ${result.tracks.items[0].artists[0].name}
-        //     \nAlbum name: ${result.tracks.items[0].album.name}
-        //     \nPreview track: ${previewText}`);
     });
 }
 
@@ -279,21 +273,5 @@ function lirithis(userInput, userChoice) {
         }
     }
 }
-
-/** To do:
- *
- *
- * 7. momentjs
- *
- *
- * Done:
- * 1. get APIs working using axios
- * 2. implement "do what it says"
- * 3. turn the current test searches into user input searches
- * 4. reformat the organization to make it make sense
- * 5. clean up console logs
- * 6. output to log file
- *
- */
 
 lirithis(userInput, userChoice);
