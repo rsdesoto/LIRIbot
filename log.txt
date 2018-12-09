@@ -1,33 +1,14 @@
-missy+elliott concerts: 
-Concert #1:
-                
-Venue name: Cassiopeia
-                
-Venue location: Berlin in Germany
-                
-Concert date: 12/29/2018
-                
-
 Movie info: 
 
-Movie name: Damn Yankees
+Movie name: The Thing
             
-Plot summary: A frustrated fan of the hopeless Washington Senators makes a pact with the Devil to help the baseball team win the league pennant.
+Plot summary: A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
             
-Actors: Tab Hunter, Gwen Verdon, Ray Walston, Russ Brown
+Actors: Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon
             
-Release year and country: 1958, in USA
+Release year and country: 1982, in USA
             
-Ratings: Internet Movie Database Rating: 7.2/10; Rotten Tomatoes Rating: 76%
-Song info: 
-
-Song name: thank u, next
-        
-Artist name: Ariana Grande
-        
-Album name: thank u, next
-        
-Preview track: No preview available
+Ratings: Internet Movie Database Rating: 8.1/10; Rotten Tomatoes Rating: 83%
 Song info: 
 
 Song name: I Want It That Way
@@ -37,341 +18,76 @@ Artist name: Backstreet Boys
 Album name: The Hits--Chapter One
         
 Preview track: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6431ceec39c34342961d0c7422091881
-Concert info: 
-Concert #1:
-                
-Venue name: Times Union Center
-                
-Venue location: Albany in United States
-                
-Concert date: 03/18/2019
-                
-Concert #2:
-                
-Venue name: TD Garden
-                
-Venue location: Boston in United States
-                
-Concert date: 03/20/2019
-                
-Concert #3:
-                
-Venue name: KeyBank Center
-                
-Venue location: Buffalo in United States
-                
-Concert date: 03/22/2019
-                
-Concert #4:
-                
-Venue name: Capitol One Arena
-                
-Venue location: Washington in United States
-                
-Concert date: 03/25/2019
-                
-Concert #5:
-                
-Venue name: Wells Fargo Center
-                
-Venue location: Philadelphia in United States
-                
-Concert date: 03/26/2019
-                
-Concert #6:
-                
-Venue name: Quicken Loans Arena
-                
-Venue location: Cleveland in United States
-                
-Concert date: 03/28/2019
-                
-Concert #7:
-                
-Venue name: Mohegan Sun Arena
-                
-Venue location: Uncasville in United States
-                
-Concert date: 03/30/2019
-                
-Concert #8:
-                
-Venue name: Bell Centre
-                
-Venue location: Montréal in Canada
-                
-Concert date: 04/01/2019
-                
-Concert #9:
-                
-Venue name: Scotiabank Arena
-                
-Venue location: Toronto in Canada
-                
-Concert date: 04/03/2019
-                
-Concert #10:
-                
-Venue name: Little Caesars Arena
-                
-Venue location: Detroit in United States
-                
-Concert date: 04/05/2019
-                
-Concert #11:
-                
-Venue name: United Center
-                
-Venue location: Chicago in United States
-                
-Concert date: 04/07/2019
-                
-Concert #12:
-                
-Venue name: The Schottenstein Center
-                
-Venue location: Columbus in United States
-                
-Concert date: 04/10/2019
-                
-Concert #13:
-                
-Venue name: Bankers Life Fieldhouse
-                
-Venue location: Indianapolis in United States
-                
-Concert date: 04/12/2019
-                
-Concert #14:
-                
-Venue name: Enterprise Center
-                
-Venue location: St. Louis in United States
-                
-Concert date: 04/13/2019
-                
-Concert #15:
-                
-Venue name: Fiserv Forum
-                
-Venue location: Milwaukee in United States
-                
-Concert date: 04/15/2019
-                
-Concert #16:
-                
-Venue name: Xcel Energy Center
-                
-Venue location: St Paul in United States
-                
-Concert date: 04/17/2019
-                
-Concert #17:
-                
-Venue name: CHI Health Center
-                
-Venue location: Omaha in United States
-                
-Concert date: 04/18/2019
-                
-Concert #18:
-                
-Venue name: Pepsi Center
-                
-Venue location: Denver in United States
-                
-Concert date: 04/20/2019
-                
-Concert #19:
-                
-Venue name: Vivint Smart Home Arena
-                
-Venue location: Salt Lake City in United States
-                
-Concert date: 04/22/2019
-                
-Concert #20:
-                
-Venue name: Rogers Place
-                
-Venue location: Edmonton in Canada
-                
-Concert date: 04/25/2019
-                
-Concert #21:
-                
-Venue name: Rogers Arena
-                
-Venue location: Vancouver in Canada
-                
-Concert date: 04/27/2019
-                
-Concert #22:
-                
-Venue name: Moda Center
-                
-Venue location: Portland in United States
-                
-Concert date: 04/30/2019
-                
-Concert #23:
-                
-Venue name: SAP Center
-                
-Venue location: San Jose in United States
-                
-Concert date: 05/02/2019
-                
-Concert #24:
-                
-Venue name: Golden 1 Center
-                
-Venue location: Sacramento in United States
-                
-Concert date: 05/03/2019
-                
-Concert #25:
-                
-Venue name: STAPLES Center
-                
-Venue location: Los Angeles in United States
-                
-Concert date: 05/06/2019
-                
-Concert #26:
-                
-Venue name: The Forum
-                
-Venue location: Los Angeles in United States
-                
-Concert date: 05/10/2019
-                
-Concert #27:
-                
-Venue name: Talking Stick Resort Arena
-                
-Venue location: Phoenix in United States
-                
-Concert date: 05/14/2019
-                
-Concert #28:
-                
-Venue name: AT&T Center
-                
-Venue location: San Antonio in United States
-                
-Concert date: 05/17/2019
-                
-Concert #29:
-                
-Venue name: Toyota Center
-                
-Venue location: Houston in United States
-                
-Concert date: 05/19/2019
-                
-Concert #30:
-                
-Venue name: American Airlines Center
-                
-Venue location: Dallas in United States
-                
-Concert date: 05/21/2019
-                
-Concert #31:
-                
-Venue name: Chesapeake Energy Arena
-                
-Venue location: Oklahoma City in United States
-                
-Concert date: 05/23/2019
-                
-Concert #32:
-                
-Venue name: Smoothie King Center
-                
-Venue location: New Orleans in United States
-                
-Concert date: 05/25/2019
-                
-Concert #33:
-                
-Venue name: Amalie Arena
-                
-Venue location: Tampa in United States
-                
-Concert date: 05/28/2019
-                
-Concert #34:
-                
-Venue name: Amway Center
-                
-Venue location: Orlando in United States
-                
-Concert date: 05/29/2019
-                
-Concert #35:
-                
-Venue name: American Airlines Arena
-                
-Venue location: Miami in United States
-                
-Concert date: 05/31/2019
-                
-Concert #36:
-                
-Venue name: PNC Arena
-                
-Venue location: Raleigh in United States
-                
-Concert date: 06/04/2019
-                
-Concert #37:
-                
-Venue name: Bridgestone Arena
-                
-Venue location: Nashville in United States
-                
-Concert date: 06/07/2019
-                
-Concert #38:
-                
-Venue name: State Farm Arena
-                
-Venue location: Atlanta in United States
-                
-Concert date: 06/08/2019
-                
-Concert #39:
-                
-Venue name: Spectrum Center
-                
-Venue location: Charlotte in United States
-                
-Concert date: 06/10/2019
-                
-Concert #40:
-                
-Venue name: PPG Paints Arena
-                
-Venue location: Pittsburgh in United States
-                
-Concert date: 06/12/2019
-                
-Concert #41:
-                
-Venue name: Barclays Center
-                
-Venue location: Brooklyn in United States
-                
-Concert date: 06/14/2019
-                
-Concert #42:
-                
-Venue name: Madison Square Garden
-                
-Venue location: New York in United States
-                
-Concert date: 06/18/2019
-                
+Song info: 
 
+Song name: I Want It That Way
+        
+Artist name: Backstreet Boys
+        
+Album name: The Hits--Chapter One
+        
+Preview track: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6431ceec39c34342961d0c7422091881
+Movie info: 
+
+Movie name: Legally Blonde
+            
+Plot summary: Elle Woods, a fashionable sorority queen is dumped by her boyfriend. She decides to follow him to law school, while she is there she figures out that there is more to her than just looks.
+            
+Actors: Reese Witherspoon, Luke Wilson, Selma Blair, Matthew Davis
+            
+Release year and country: 2001, in USA
+            
+Ratings: Internet Movie Database Rating: 6.2/10; Rotten Tomatoes Rating: 69%
+Song info: 
+
+Song name: The Sign
+        
+Artist name: Ace of Base
+        
+Album name: The Sign (US Album) [Remastered]
+        
+Preview track: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6431ceec39c34342961d0c7422091881
+Movie info: 
+
+Movie name: A New Hope
+            
+Plot summary: The youth's voice of today. Hear their message, understand their motives, and see their movement.
+            
+Actors: Paul Mason, Sunjay Nath, Mark Bergfeld, Nate Joseph
+            
+Release year and country: 2012, in Canada
+            
+Ratings: 
+Movie info: 
+
+Movie name: The Thing
+            
+Plot summary: A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
+            
+Actors: Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon
+            
+Release year and country: 1982, in USA
+            
+Ratings: Internet Movie Database Rating: 8.1/10; Rotten Tomatoes Rating: 83%
+Movie info: 
+
+Movie name: Legally Blonde
+            
+Plot summary: Elle Woods, a fashionable sorority queen is dumped by her boyfriend. She decides to follow him to law school, while she is there she figures out that there is more to her than just looks.
+            
+Actors: Reese Witherspoon, Luke Wilson, Selma Blair, Matthew Davis
+            
+Release year and country: 2001, in USA
+            
+Ratings: Internet Movie Database Rating: 6.2/10; Rotten Tomatoes Rating: 69%
+Movie info: 
+
+Movie name: Legally Blonde
+            
+Plot summary: Elle Woods, a fashionable sorority queen is dumped by her boyfriend. She decides to follow him to law school, while she is there she figures out that there is more to her than just looks.
+            
+Actors: Reese Witherspoon, Luke Wilson, Selma Blair, Matthew Davis
+            
+Release year and country: 2001, in USA
+            
+Ratings: Internet Movie Database Rating: 6.2/10; Rotten Tomatoes Rating: 69%

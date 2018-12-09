@@ -207,15 +207,7 @@ function doWhatItSays() {
 
         var dataArr = data.split(",");
 
-        if (dataArr[0] === "spotify-this-song") {
-            songLookup(dataArr[1]);
-        } else if (dataArr[0] === "movie-this") {
-            movieLookup(dataArr[1]);
-        } else if (dataArr[0] === "concert-this") {
-            bandLookup(dataArr[1]);
-        } else {
-            console.log("Sorry, I didn't understand that");
-        }
+        lirithis(dataArr[1], dataArr[0]);
     });
 }
 
