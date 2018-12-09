@@ -18,11 +18,11 @@ The options available are as follows:
 
 -   spotify-this-song -- provides the song title; the artist; the album; and a preview clip, if available.
 
-[!Spotify This Song example](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/spotify-this-song.png)
+![Spotify This Song example](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/spotify-this-song.png)
 
 -   movie-this -- provides the title of the movie, the year it was released, IMDB and Rotten Tomatoes ratings (if available), the country the movie was made in, a plot summary, and the actors.
 
-[!Movie This example](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/movie-this.png)
+![Movie This example](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/movie-this.png)
 
 -   concert-this -- provides a list of concerts for a band, including the venue name, the venue city and country, and the date of the concert.
 
@@ -32,14 +32,14 @@ Each query will also print this information out into the log file.
 
 The "do-what-it-says" command will access a text file called "random.txt", read in the command and search criteria saved in the file, and perform that search.
 
-[!Do What It Says input](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/random.png)
-[!Do What It Says output](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/do-what-it-says.png)
+![Do What It Says input](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/random.png)
+![Do What It Says output](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/do-what-it-says.png)
 
 #### Log file
 
 All searches are saved to "log.txt".
 
-[!Log File example](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/log.png)
+![Log File example](https://raw.githubusercontent.com/rsdesoto/LIRIbot/master/images/log.png)
 
 ### APIs Used
 
